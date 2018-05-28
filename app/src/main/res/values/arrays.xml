@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_order_labels">
+        <item>@string/order_by_time_labels</item>
+        <item>@string/order_by_mag_label</item>
+    </array>
+
+    <array name="pref_order_values">
+        <item>@string/order_by_time</item>
+        <item>@string/order_by_mag</item>
+    </array>
+
+</resources>
